@@ -1,5 +1,9 @@
-body {
-    
+html {
+    background-image: url(240_F_392438226_SlHMV9E0zdCnEf7yWMDUKzjL0ECKQali.jpg);
+    background-image: url(240_F_415868980_0I6agqmSV0fAHrD1TlGcfXnBHMEXHJq7.jpg);
+    background-repeat: no-repeat;
+    image-rendering: -webkit-optimize-contrast;
+    background-size: 100% auto;
 }
 header {
     text-align: center;
